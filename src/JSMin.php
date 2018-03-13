@@ -54,7 +54,7 @@
  * @license   http://opensource.org/licenses/mit-license.php MIT License
  * @link      http://code.google.com/p/jsmin-php/
  */
-namespace Filipac;
+namespace Filipac\JSMin;
 
 class JSMin {
 
