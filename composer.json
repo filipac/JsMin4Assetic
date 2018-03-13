@@ -1,5 +1,5 @@
 {
-	"name":       "lmammino/jsmin4assetic",
+	"name":       "filipac/jsmin4assetic",
 	"type":       "library",
 	"description":"Library for minifying JavaScript files using jsmin with assetic and composer",
 	"license":    "MIT",
@@ -15,6 +15,10 @@
 		{
 			"name": "Luciano Mammino",
 			"email":"lmammino@oryzone.com"
+		},
+		{
+			"name": "Filip Pacurar",
+			"email": "filip@pacurar.co"
 		}
 	],
 	"require":    {
