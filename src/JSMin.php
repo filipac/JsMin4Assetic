@@ -237,7 +237,7 @@ class JSMin {
 	 * @return bool
 	 */
 	protected function isRegexpLiteral() {
-		if (false !== strpos("\n{;(,=:[!&|?", $this->a)) { // we aren't dividing
+		if (false !== strpos("\n{;(,=:[!&|?\/", $this->a)) { // we aren't dividing
 			return true;
 		}
 		if (' ' === $this->a) {
